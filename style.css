@@ -1,0 +1,38 @@
+body{
+font-family: 'Oswald', sans-serif;
+background: green;
+background: url(a1.jpg);
+background-repeat: repeat
+ }
+ h1 {
+ 	text-align: center;
+ 	text-decoration: underline;
+
+ }
+ a{
+ 	text-decoration: none;
+ 	color: blue;
+ 	text-align: center;
+ }
+ p{
+ 	color: 138;
+ 	background: green;
+ 	font-size: x-large;
+ }
+ .text p{
+ 	color:#00FFFF;
+ }
+ .card {
+ 	background:blue;
+ 	width:900px;
+ 	box-shadow: 20px 20px 20px 0px red;
+ 	display: inline-block;
+ 	margin: 3%;
+ }
+ .text2 {
+ 	background: green;
+ 	color: blue;
+ }
+ .youtube {
+ 	
+ }
